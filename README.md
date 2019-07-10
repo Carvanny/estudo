@@ -1,4 +1,4 @@
-# estudo
+# Projetos
 Este repositorio tem por objetivo apresentar projetos de exemplo e estudos.
 
 Olá amigo,
